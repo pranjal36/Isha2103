@@ -7,7 +7,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
  
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	💻
 -  **Languages :** Java, C, JavaScript💻
 -  **Hobbies :** Articles📕, Books, Novels & Music :headphones:
 -  **Fact :** It's never late to get started 🎯:heart:
